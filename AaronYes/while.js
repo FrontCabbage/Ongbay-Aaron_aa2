@@ -5,6 +5,6 @@ while (num<=51) {
     } else {
         document.write(num);
     }
-    num++
+    num = num + 2;
 }
 document.write("<br>");
